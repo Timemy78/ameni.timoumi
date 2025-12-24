@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ameni TIMOUMI
 
-## 🚀 AI Engineer | NLP Specialist | Full-Stack Developer
+## 🚀 AI Engineer | LLM Specialist | Full-Stack Developer
 
 Passionate about building intelligent systems that solve real-world problems. Specialized in **Natural Language Processing**, **Large Language Models**, and **Full-Stack AI Applications**.
 
