@@ -9,7 +9,7 @@ Passionate about building intelligent systems that solve real-world problems. Sp
 ### 💼 Currently
 - 🔭 Working as **SIRH Manager** 
 - 🌱 Building AI-powered content generation platforms
-- 💡 Exploring LangChain, Flowise, and advanced NLP techniques
+- 💡 Exploring LangChain, Flowise, and advanced LLM techniques
 - 🌍 Open to remote opportunities worldwide
 
 ---
