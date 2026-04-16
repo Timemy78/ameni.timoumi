@@ -21,7 +21,7 @@
 
 ⚙️ Stack :
 - LangChain
-- ChromaDB
+- FAISS
 - HuggingFace / GROQ / Ollama
 - Streamlit
 
